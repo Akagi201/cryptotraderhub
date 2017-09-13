@@ -2,7 +2,7 @@
 
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
-GIT_DEPLOY_REPO="git@github.com:Akagi201/cryptotrader.git"
+GIT_DEPLOY_REPO="git@github.com:Akagi201/cryptotraderhub.git"
 
 # Build the project.
 hugo
