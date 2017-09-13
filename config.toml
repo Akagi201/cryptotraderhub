@@ -1,4 +1,4 @@
-baseurl = "https://akmaker.com"
+baseurl = "http://cth.akagi201.org"
 title = "量投社"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
