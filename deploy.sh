@@ -22,4 +22,4 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-git push --force "${GIT_DEPLOY_REPO}" gh-pages
+git push --force "${GIT_DEPLOY_REPO}" HEAD:gh-pages
