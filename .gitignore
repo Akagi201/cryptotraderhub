@@ -1,0 +1,6 @@
+/themes
+/public
+*.log
+*.db
+.DS_Store
+.vscode/
